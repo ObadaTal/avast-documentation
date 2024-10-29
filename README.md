@@ -85,6 +85,16 @@ Here are some common issues users might encounter while using Avast, along with 
   *Solution*: Restart the Avast application. Consider clearing cache files or scheduling scans during off-peak hours to improve performance.
 
 ---
+## 🔗 Integrations
+
+Avast can integrate with various applications for enhanced security:
+
+| Application       | Description                             | Link                       |
+|-------------------|-----------------------------------------|----------------------------|
+| 📅 Google Drive   | Scan files uploaded to Google Drive     | [drive.google.com](https://drive.google.com) |
+| 💬 Slack          | Receive security alerts in Slack        | [slack.com](https://slack.com) |
+| 📌 Dropbox        | Securely scan files stored in Dropbox   | [dropbox.com](https://dropbox.com) |
+
 ## Advanced Usage 🔧
 
 ### ⚙️ Scripting
